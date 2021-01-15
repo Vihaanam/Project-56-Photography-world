@@ -1,0 +1,19 @@
+body {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+div {
+    margin-top: 15px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
+.column {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+p {
+    font-size: 12px;
+}
